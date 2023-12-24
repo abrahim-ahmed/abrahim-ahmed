@@ -1,8 +1,8 @@
-# Hi there!👋, I'm @abrahim-ahmed 🇸🇦
+# Hi there!👋, I'm @abrahim-ahmed <img align="rghit" width="30px" src="https://emoji.discadia.com/emojis/fe373269-39d8-43da-af0a-d6a9fff826fa.png" style="padding-right:10px;" />
 **`Digital craftsman(Engineer/Developer/Creator)`**
 
 
-## My name is Ibrahim ahmed aljardan, I'm from Riyadh, Kingdom of Saudi Arabia 🇸🇦
+## My name is Ibrahim ahmed aljardan, I'm from Riyadh, Kingdom of Saudi Arabia <img align="rghit" width="30px" src="https://emoji.discadia.com/emojis/1fc40c1a-265c-41d5-aa13-d948afb58fe5.GIF" style="padding-right:10px;" />
 
 - 🔭 I’m interested in Electronics, Telecommunications system and Programming.
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +14,7 @@
 
 ---
 
-### Connect with me:
+### Other platforms:
 
 <p align="left">
 <a href="https://linkedin.com/in/eng.ibrahim aljrdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng.ibrahim aljrdan" height="30" width="40" /></a>
@@ -36,8 +36,12 @@
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" style="padding-right:10px;" />
 
 
-
 <img align="left" alt="" width="30px" src="" style="padding-right:10px;" />
+
+<br />
+<br />
+
+---
 
 
 <!--
