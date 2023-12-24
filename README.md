@@ -1,5 +1,5 @@
 # Hi there!👋, I'm @abrahim-ahmed <img align="rghit" width="30px" src="https://emoji.discadia.com/emojis/fe373269-39d8-43da-af0a-d6a9fff826fa.png" style="padding-right:10px;" />
-**`Digital craftsman(Engineer/Developer/Creator)`**
+**`Digital craftsman(Engineer/Developer/Creator/Editor)`**
 
 
 ## My name is Ibrahim ahmed aljardan, I'm from Riyadh, Kingdom of Saudi Arabia <img align="rghit" width="30px" src="https://emoji.discadia.com/emojis/1fc40c1a-265c-41d5-aa13-d948afb58fe5.GIF" style="padding-right:10px;" />
