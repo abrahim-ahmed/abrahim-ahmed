@@ -43,19 +43,23 @@
 
 ---
 <details>
-  <summary><img width="22px" src="https://getintopc.com/wp-content/uploads/2018/07/Cadence-Allegro-OrCAD-17.20.037-Free-Download.png" /> My OrCAD Project</summary>
+  <summary><img width="22px" src="https://getintopc.com/wp-content/uploads/2018/07/Cadence-Allegro-OrCAD-17.20.037-Free-Download.png" /> My OrCAD Work</summary>
 
 <!--START_SECTION:activity-->
-
+- OrCad software is used For electronic design technicians to create electronic schematics, and perform mixed-signal simulation and electronic prints for manufacturing printed circuit boards (PCBs). OrCAD has a lot of different softwares, my most used software is capture and layout but the latest version of orcad they integrate the layout software in to the PCB Editor software.
+- 📅 I started using orcad since 2020
+- 💾 I would like to share with you sam of my work.
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary><img width="22px" src="https://ar.seaicons.com/wp-content/uploads/2015/10/Autodesk-Autocad-icon.png" /> My AutoCAD Project</summary>
+  <summary><img width="22px" src="https://ar.seaicons.com/wp-content/uploads/2015/10/Autodesk-Autocad-icon.png" /> My AutoCAD Work</summary>
 
 <!--START_SECTION:activity-->
-
+- AutoCAD is used for designing 2D and 3D designs. It allows me to draw and edit digital designs. This includes projects like building details, manufacturing drawings, layout, floor plans, construction layouts and much more. Tools that aid in the creation of complex designs. One of its most notable features is the ability to generate accurate measurements, dimensions, and annotations, allowing me to convey my ideas with clarity. 
+- 📅 I started using AutoCAD since 2021
+- 📷 I would like to share with you sam of my work.
 <!--END_SECTION:activity-->
 
 
