@@ -36,7 +36,7 @@
 <img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" style="padding-right:10px;" />
 
 
-<img align="left" alt="" width="30px" src="" style="padding-right:10px;" />
+
 
 <br />
 <br />
@@ -49,6 +49,7 @@
 - OrCad software is used For electronic design technicians to create electronic schematics, and perform mixed-signal simulation and electronic prints for manufacturing printed circuit boards (PCBs). OrCAD has a lot of different softwares, my most used software is capture and layout but the latest version of orcad they integrate the layout software in to the PCB Editor software.
 - 📅 I started using orcad since 2020
 - 💾 I would like to share with you sam of my work.
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -60,6 +61,7 @@
 - AutoCAD is used for designing 2D and 3D designs. It allows me to draw and edit digital designs. This includes projects like building details, manufacturing drawings, layout, floor plans, construction layouts and much more. Tools that aid in the creation of complex designs. One of its most notable features is the ability to generate accurate measurements, dimensions, and annotations, allowing me to convey my ideas with clarity. 
 - 📅 I started using AutoCAD since 2021
 - 📷 I would like to share with you sam of my work.
+
 <!--END_SECTION:activity-->
 
 
