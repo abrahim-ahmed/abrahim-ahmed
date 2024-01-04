@@ -50,9 +50,12 @@
 - 📅 I started using orcad since 2020
 - 💾 I would like to share with you sam of my work.
 - EX1
-![Photo](image link)
+  <br />
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/PB1000bord.png)
+
 - EX2
-![Photo](image link)
+  <br />
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/traffic%20light.png)
 
 <!--END_SECTION:activity-->
 
@@ -66,10 +69,15 @@
 - 📅 I started using AutoCAD since 2021
 - 📷 I would like to share with you sam of my work.
 - EX1
-![Photo](image link)
+  <br />
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/autocad%20hoelder.png)
 - EX2
-![Photo](image link)
+  <br />
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/autocad%203D%20custom.png)
 
+- EX3
+  <br />
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/autocad%20position.png)
 <!--END_SECTION:activity-->
 
 
