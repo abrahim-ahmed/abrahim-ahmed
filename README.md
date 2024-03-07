@@ -2,7 +2,7 @@
 **`Digital craftsman(Engineer/Developer/Creator/Editor)`**
 
 
-## My name is Ibrahim ahmed aljardan, I'm from Riyadh, Kingdom of Saudi Arabia <img align="rghit" width="30px" src="https://emoji.discadia.com/emojis/1fc40c1a-265c-41d5-aa13-d948afb58fe5.GIF" style="padding-right:10px;" />
+## My name is Ibrahim ahmed aljardan, I'm from Riyadh, Kingdom Saudi Arabia <img align="rghit" width="30px" src="https://emoji.discadia.com/emojis/1fc40c1a-265c-41d5-aa13-d948afb58fe5.GIF" style="padding-right:10px;" />
 
 - 🔭 I’m interested in Electronics, Telecommunications system and Programming.
 - 🌱 I’m currently learning everything 🤣
