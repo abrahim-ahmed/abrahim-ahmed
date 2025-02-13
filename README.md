@@ -24,7 +24,7 @@
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OrCAD" width="30px" src="https://getintopc.com/wp-content/uploads/2018/07/Cadence-Allegro-OrCAD-17.20.037-Free-Download.png" style="padding-right:10px;" />
-<img align="left" alt="AutoCAD" width="30px" src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="AutoCAD" width="30px" src="Photos/autocad-logo.png" style="padding-right:10px;" />
 <img align="left" alt="java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="padding-right:10px;" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary><img width="22px" src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" /> My AutoCAD Work</summary>
+  <summary><img width="22px" src="Photos/autocad-logo.png" /> My AutoCAD Work</summary>
 
 <!--START_SECTION:activity-->
 - AutoCAD is used for designing 2D and 3D designs. It allows me to draw and edit digital designs. This includes projects like building details, manufacturing drawings, layout, floor plans, construction layouts and much more. Tools that aid in the creation of complex designs. One of its most notable features is the ability to generate accurate measurements, dimensions, and annotations, allowing me to convey my ideas with clarity. 
