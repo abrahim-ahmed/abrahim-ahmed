@@ -6,8 +6,8 @@
 
 - 🔭 I’m interested in Electronics, Telecommunications system and Programming.
 - 🌱 I’m currently learning everything 🤣
-- 💻 My experience with programs is OrCAD, AutoCAD, Eclipse IDE, Visual Studio Code, and Matlab.
-- 👨‍💻 My experience with code language is Matlab, Java, and python.
+- 💻 My experience with programs is OrCAD, AutoCAD, Eclipse IDE, Visual Studio Code, Matlab, and Flutter.
+- 👨‍💻 My experience with code language is Matlab, Java, python, and Dart.
 - 📫 to reach me at my email: twoeng.ibrahim@gmail.com
 - 📫 or my other email: ibrahim@bedaprecision.com
 - ⚡ Fun fact: I love coffee pacifically arabian coffee.
