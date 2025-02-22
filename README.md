@@ -23,17 +23,20 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="30px" src="Photos/flutter.png" style="padding-right:10px;" />
+<img align="left" alt="Dart" width="30px" src="Photos/dart.png" style="padding-right:10px;" />
 <img align="left" alt="OrCAD" width="30px" src="https://getintopc.com/wp-content/uploads/2018/07/Cadence-Allegro-OrCAD-17.20.037-Free-Download.png" style="padding-right:10px;" />
 <img align="left" alt="AutoCAD" width="30px" src="Photos/autocad-logo.png" style="padding-right:10px;" />
-<img align="left" alt="java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="padding-right:10px;" />
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Eclipse IDE" width="30px" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" style="padding-right:10px;" />
-<img align="left" alt="photoshop" width="30px" src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" style="padding-right:10px;" />
-<img align="left" alt="figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="30px" src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="CorelDRAW" width="30px" src="https://d4.alternativeto.net/yli_lxFdeWrJSgtakyfC9x5_WcAylzU3eZzZWASxv94/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9jb3JlbC1kcmF3XzIwNzc0NC5wbmc.png" style="padding-right:10px;" />
-<img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" style="padding-right:10px;" />
+<img align="left" alt="DaVinci Resolve Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" style="padding-right:10px;" />
+<img align="left" alt="Virtualbox" width="30px" src="Photos/virtualbox.png" style="padding-right:10px;" />
 
 
 
