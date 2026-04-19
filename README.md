@@ -37,9 +37,9 @@
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="DaVinci Resolve Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" style="padding-right:10px;" />
 <img align="left" alt="Fusion 360" width="30px" src="Photos/Autodesk Fusion 360.png" style="padding-right:10px;" />
-<img align="left" alt="Photoshop" width="30px" src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" style="padding-right:10px;" />
-<img align="left" alt="Virtualbox" width="30px" src="Photos/virtualbox.png" style="padding-right:10px;" />
-<img align="left" alt="CorelDRAW" width="30px" src="https://d4.alternativeto.net/yli_lxFdeWrJSgtakyfC9x5_WcAylzU3eZzZWASxv94/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9jb3JlbC1kcmF3XzIwNzc0NC5wbmc.png" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="30px" src="Photos/adobe-photoshop-icon.png" style="padding-right:10px;" />
+<img align="left" alt="Virtualbox" width="30px" src="Photos/Virtualbox-icon.png" style="padding-right:10px;" />
+<img align="left" alt="CorelDRAW" width="30px" src="Photos/coreldraw-icon.png" style="padding-right:10px;" />
 <img align="left" alt="Flutter" width="30px" src="Photos/flutter.png" style="padding-right:10px;" />
 
 
