@@ -59,11 +59,11 @@
 - 💾 I would like to share with you sam of my work.
 - EX1
   <br />
-![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/PB1000bord.png)
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/OrCADImgEX1.png)
 
 - EX2
   <br />
-![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/traffic%20light.png)
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/OrCADImgEX2.png)
 
 <!--END_SECTION:activity-->
 
@@ -78,14 +78,14 @@
 - 📷 I would like to share with you sam of my work.
 - EX1
   <br />
-![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/autocad%20hoelder.png)
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/ImgEX1.png)
 - EX2
   <br />
-![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/autocad%203D%20custom.png)
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/ImgEX2.png)
 
 - EX3
   <br />
-![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/autocad%20position.png)
+![Photo](https://github.com/abrahim-ahmed/abrahim-ahmed/blob/main/Photos/ImgEX3.png)
 <!--END_SECTION:activity-->
 
 
